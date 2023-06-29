@@ -1,4 +1,4 @@
-<a href="https://github.com/bimporakosoo">
+<a href="https://github.com/bimprakosoo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bimprakosoo" />
 </a>
 <a href="https://github.com/bimprakosoo">
